@@ -1,11 +1,11 @@
 ---
 title: How can performance improve conversion?
-subhead: TBD
+subhead: Optimize your site's performance and improve conversions.
 authors: 
   - martinschierle
 date: 2019-05-05
 hero: hero.jpg
-alt: A description for the hero image
+alt: Image of checkout button on a person's screen
 description: |
   Learn what impact website performance has on different parts of the e-commerce funnel
 wf_blink_components: Blink>Performance

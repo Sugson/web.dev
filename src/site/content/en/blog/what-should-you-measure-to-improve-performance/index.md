@@ -1,11 +1,11 @@
 ---
 title: How can performance improve conversion?
-subhead: TBD
+subhead: Strategies to measure performance at each stage in the purchase funnel
 authors: 
   - martinschierle
 date: 2019-05-05
 hero: hero.jpg
-alt: A description for the hero image
+alt: Image of checkout button on a person's screen
 description: |
   Learn what impact website performance has on different parts of the e-commerce funnel
 wf_blink_components: Blink>Performance
