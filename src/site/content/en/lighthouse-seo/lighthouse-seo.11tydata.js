@@ -43,6 +43,12 @@ module.exports = {
           'structured-data',
         ],
       },
+      {
+        title: 'Scoring',
+        pathItems: [
+          'seo-scoring',
+        ],
+      },
     ],
   },
 };

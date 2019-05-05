@@ -31,6 +31,12 @@ module.exports = {
           'image-aspect-ratio',
         ],
       },
+      {
+        title: 'Scoring',
+        pathItems: [
+          'best-practices-scoring',
+        ],
+      },
     ],
   },
 };

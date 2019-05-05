@@ -46,6 +46,12 @@ module.exports = {
           'pwa-each-page-has-url',
         ],
       },
+      {
+        title: 'Scoring',
+        pathItems: [
+          'pwa-scoring',
+        ],
+      },
     ],
   },
 };
